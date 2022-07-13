@@ -1,6 +1,13 @@
-# Spring-Boot-2.7.1-MariaDB-JPA-ex2
+# Spring-Boot-ex2
+
+### Text book
+- Title: 코드로 배우는 스프링 부트 웹프로젝트
+- Authors: 구멍가게 코딩단
+
+    <img width="200" alt="spring-web-project-img" src="http://image.kyobobook.co.kr/images/book/large/070/l9791189184070.jpg">
 
 
+---
 ## Goal
 - Spring Boot 에서 필요한 MariaDB 설정 및 Spring Data JPA 기술 학습
 
