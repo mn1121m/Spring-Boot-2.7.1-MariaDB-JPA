@@ -1,4 +1,4 @@
-# Spring-Boot-ex2
+# Spring-Boot-2.7.1-MariaDB-JPA
 
 ### Text book
 - Title: 코드로 배우는 스프링 부트 웹프로젝트
