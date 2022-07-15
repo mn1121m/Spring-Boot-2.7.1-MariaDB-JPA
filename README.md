@@ -27,6 +27,12 @@
 - Spring Data JPA
 
 
+## IntelliJ IDEA CE -Gradle-Setting
+- Gradle 설정
+
+   <img width="500" alt="gradle_setting" src="https://user-images.githubusercontent.com/83820185/179154111-1297c9c0-9714-42d1-ab0e-f897310d9494.png">
+
+
 
 ## DB를 위한 Spring Boot Setting
 - Spring Data JPA 라이브러리 설정
