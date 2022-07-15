@@ -21,9 +21,15 @@
 
 
 ## Spring Initializr - Selected Dependencies
+
+### Developer Tools
 - Spring Boot DevTools
 - Lombok
+
+### Web
 - Spring Web
+
+### SOL
 - Spring Data JPA
 
 
